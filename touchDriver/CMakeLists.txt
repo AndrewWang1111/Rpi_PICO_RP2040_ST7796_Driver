@@ -1,0 +1,2 @@
+add_library(FT6336Touch touch.cpp)
+target_link_libraries(FT6336Touch hardware_i2c)

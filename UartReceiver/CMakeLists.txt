@@ -1,0 +1,2 @@
+add_library(UartReceiver receiver.cpp)
+target_link_libraries(UartReceiver hardware_uart)
