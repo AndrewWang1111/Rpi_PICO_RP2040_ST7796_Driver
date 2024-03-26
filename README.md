@@ -1,4 +1,4 @@
-# Rpi_PICO_RP2040_ST7796_Driver
+# Rpi_PICO_RP2040_ST7796_Driver_PIO_SPI
 
 pio spi
 
