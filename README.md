@@ -1,5 +1,6 @@
 # Rpi_PICO_RP2040_ST7796_Driver
 
+pio spi
 
 #define PIN_SCK 2
 #define PIN_MOSI 3
